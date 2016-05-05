@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:/examples-ch04-spouts/Spouts.iml" filepath="G:/examples-ch04-spouts/Spouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Storm.iml" filepath="$PROJECT_DIR$/Storm.iml" />
+      <module fileurl="file://G:/examples-ch03-topologies/Topologies.iml" filepath="G:/examples-ch03-topologies/Topologies.iml" />
+    </modules>
+  </component>
+</project>
